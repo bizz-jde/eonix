@@ -1,0 +1,6 @@
+D:\Users\jde\Desktop\Eonix\ConsoleApp\ConsoleAppEonix\ConsoleAppEonix\bin\Release\net5.0\publish\ConsoleAppEonix.exe
+D:\Users\jde\Desktop\Eonix\ConsoleApp\ConsoleAppEonix\ConsoleAppEonix\bin\Release\net5.0\publish\ConsoleAppEonix.dll
+D:\Users\jde\Desktop\Eonix\ConsoleApp\ConsoleAppEonix\ConsoleAppEonix\bin\Release\net5.0\publish\ConsoleAppEonix.deps.json
+D:\Users\jde\Desktop\Eonix\ConsoleApp\ConsoleAppEonix\ConsoleAppEonix\bin\Release\net5.0\publish\ConsoleAppEonix.runtimeconfig.json
+D:\Users\jde\Desktop\Eonix\ConsoleApp\ConsoleAppEonix\ConsoleAppEonix\bin\Release\net5.0\publish\ConsoleAppEonix.pdb
+D:\Users\jde\Desktop\Eonix\ConsoleApp\ConsoleAppEonix\ConsoleAppEonix\bin\Release\net5.0\publish\nunit.framework.dll

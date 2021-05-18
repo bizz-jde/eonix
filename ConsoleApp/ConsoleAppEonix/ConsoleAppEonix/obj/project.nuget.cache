@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tILss9rjYjg7MNFt9TjsiMYxTnf8BDjucVJ/E40be+EF68lMf7UUIwsneG0a1U5/58vkperrxIp6Ta/SgrDCLA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\jde\\Desktop\\Eonix\\ConsoleApp\\ConsoleAppEonix\\ConsoleAppEonix\\ConsoleAppEonix.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\jde\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\Users\\jde\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "D:\\Users\\jde\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}
